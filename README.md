@@ -23,3 +23,24 @@ The project involves creating a static website and hosting it on an Amazon S3 bu
 ## Steps Followed
 1. created my html file.
 ![Html webpage](media/index_html.png)
+
+2. created my s3 bucket
+![s3 bucket](media/succ_created_s3.png)
+
+3. uploade html file
+![Html upload](media/upload_suucc.png)
+
+4. enable static hosting
+![Static hosting](media/static_hosting.png)
+
+5. created cloud front
+![cloud front](media/created_cloudfront.png)
+
+6. edited policy
+![policy](media/edited_policy.png)
+
+7. Reterive domain
+![Domain](media/domain.png)
+
+8. output on browser
+![output](media/output.png)
